@@ -8,5 +8,12 @@
     <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="image_button_width">56dp</dimen>
+    <dimen name="recycler_view_padding_top">116dp</dimen>
+    <dimen name="recycler_view_padding_bottom">28dp</dimen>
+    <dimen name="app_bar_height">112dp</dimen>
+    <dimen name="photo_height">100dp</dimen>
+    <dimen name="max_width_layout_elevation">2dp</dimen>
+    <dimen name="cardview_margin">4dp</dimen>
 
 </resources>
